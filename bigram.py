@@ -20,7 +20,6 @@ print("length of dataset in characters: ", len(text))
 
 
 chars = sorted(list(set(text)))
-chars
 
 
 stoi = {ch: i for i, ch in enumerate(chars)}
