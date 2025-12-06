@@ -1,0 +1,1 @@
+Learning about transformers from Andrej Karpathy's [tutorial](https://www.youtube.com/watch?v=kCc8FmEb1nY)!
