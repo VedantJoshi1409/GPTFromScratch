@@ -2,3 +2,5 @@
 venv/
 input.txt
 *.json
+*.pth
+test.py
